@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1fa9a80e.css",
+    "main.js": "/static/js/main.006c37bb.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/tanjiro.jpg": "/static/media/tanjiro.f46c64e2eb57c2444028.jpg",
+    "static/media/sonic-loading.gif": "/static/media/sonic-loading.217af9e5a104d73dd8e1.gif",
+    "index.html": "/index.html",
+    "main.1fa9a80e.css.map": "/static/css/main.1fa9a80e.css.map",
+    "main.006c37bb.js.map": "/static/js/main.006c37bb.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1fa9a80e.css",
+    "static/js/main.006c37bb.js"
+  ]
+}
